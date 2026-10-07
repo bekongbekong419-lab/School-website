@@ -170,3 +170,86 @@ footer p {
 	font-weight: 700;
 	cursor: pointer;
 }
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: white;
+    color: black;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+center:first-of-type{
+    background: #0d47a1;
+    color: white;
+    padding: 30px;
+}
+center:first-of-type h1{
+    margin: 0;
+    font-size: 38px;
+}
+center:first-of-type h3{
+    color: #90caf9;
+    font-weight: normal;
+}
+center:first-of-type hr {
+    border: #90caf9;
+    font-weight: normal;
+}
+center:first-of-type hr {
+    border: 2px solid white;
+    width: 100px !inportant;
+}
+h2{
+    color: #0d47a1;
+    margin: 30px 40px 10px 40px;
+    padding: 10px;
+    border-left: 6px solid #0d47a1;
+    background: #f5f7fb;
+}
+p{
+    margin: 0 50px;
+    color: #333;
+}
+ul{
+    background: white;
+    border: 1px solid #e0e0e0;
+    border-left: 3px solid #0d47a1;
+    margin: 10px 50px;
+    padding: 15px 30px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgb(0,0,0.1);
+}
+ul li{
+    padding: 6px 0;
+    color: black;
+}
+hr {
+    border: none;
+    border-top: 1px solid #e0e0e0;
+    margin: 20px 40px;
+}
+center:last-of-type {
+    background: black;
+    color: white;
+    padding: 30px;
+    margin-top: 40px;
+}
+center:last-of-type h3{
+    color: #ffc107;
+}
+center:last-of-type p {
+    color: #bdbdbd;
+
+}
+center:last-of-type a {
+    color: #64b5f6;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px 10px;
+
+}
+center:last-of-type a:hover {
+    color: white;
+    background: #0d47a1;
+    border-radius: 4px;
+}
