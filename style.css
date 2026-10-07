@@ -197,7 +197,7 @@ center:first-of-type hr {
 }
 center:first-of-type hr {
     border: 2px solid white;
-    width: 100px !inportant;
+    width: 100px ;
 }
 h2{
     color: #0d47a1;
